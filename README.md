@@ -3,6 +3,7 @@
 ## A Simple LAMP Stack for Local Developement with Vagrant
 
 Visit https://merlotbox.com for more information.
+
 Visit https://github.com/prefixstudio/merlot for the Apache version on Merlot.
 
 ### Merlot includes the following components
