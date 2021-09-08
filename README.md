@@ -4,7 +4,7 @@
 
 Visit https://merlotbox.com for more information.
 
-Visit https://github.com/prefixstudio/merlot for the Apache version on Merlot.
+Visit https://github.com/plutinolabs/merlot for the Apache version on Merlot.
 
 ### Merlot includes the following components
 
@@ -32,7 +32,7 @@ Visit https://github.com/prefixstudio/merlot for the Apache version on Merlot.
 
 **Clone repository**
 
-`git clone https://github.com/prefixstudio/merlot my-project`  
+`git clone https://github.com/plutinolabs/merlot my-project`  
 `cd my-project`  
 `vagrant up`
 
